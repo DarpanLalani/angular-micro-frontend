@@ -1,6 +1,7 @@
 .example-card {
     max-width: 400px;
-    background-color: rgb(49, 160, 77)
+    background-color:#b995ea;
+    min-height:200px;
   }
   
   .example-full-width {

@@ -30,7 +30,7 @@ ReceiverComponent.decorators = [
                 // tslint:disable-next-line:component-selector
                 selector: 'mf-receiver',
                 template: "<mat-card class=\"example-card\">\n    <mat-card-header>\n      <mat-card-title>Micro Frontend App 2</mat-card-title>\n      <mat-card-subtitle>Receiver</mat-card-subtitle>\n    </mat-card-header>\n   \n    <mat-card-content>\n      <b>\n       Message Received:\n      </b>\n      \n      <div class=\"example-full-width\" >\n        <p> {{_message}}</p>\n      </div>\n       \n    </mat-card-content>\n\n    </mat-card>",
-                styles: [".example-card{max-width:400px;background-color:#31a04d}.example-full-width{width:100%}"]
+                styles: [".example-card{max-width:400px;background-color:#b995ea;min-height:200px}.example-full-width{width:100%}"]
             }] }
 ];
 /** @nocollapse */

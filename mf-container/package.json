@@ -23,11 +23,13 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "@webcomponents/custom-elements": "^1.2.1",
+    "classlist.js": "^1.1.20150312",
     "core-js": "^2.5.4",
     "mf-app1": "file:../mf-app1/mf-sender",
     "mf-app2": "file:../mf-app2/mf-receiver",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
+    "web-animations-js": "^2.3.1",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
